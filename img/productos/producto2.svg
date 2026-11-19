@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Entrada VIP">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6a2bcb"/><stop offset="1" stop-color="#1d0f3a"/></linearGradient></defs>
+<rect width="800" height="600" fill="url(#g)"/>
+<path d="M120 170H680a20 20 0 0 1 20 20V272a28 28 0 0 0 0 56V410a20 20 0 0 1-20 20H120a20 20 0 0 1-20-20V328a28 28 0 0 0 0-56V190a20 20 0 0 1 20-20Z" transform="translate(8 12)" fill="#000" opacity=".18"/>
+<path d="M120 170H680a20 20 0 0 1 20 20V272a28 28 0 0 0 0 56V410a20 20 0 0 1-20 20H120a20 20 0 0 1-20-20V328a28 28 0 0 0 0-56V190a20 20 0 0 1 20-20Z" fill="#fff"/>
+<line x1="590" y1="190" x2="590" y2="410" stroke="#b9a3d9" stroke-width="3" stroke-dasharray="8 8"/>
+<polygon points="270,220 286,266 335,266 295,295 311,342 270,313 229,342 245,295 205,266 254,266" fill="#f2b705"/>
+<text x="370" y="270" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#1d0f3a">ROCK NACIONAL</text>
+<text x="370" y="315" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#f2b705" font-weight="700">Entrada VIP</text>
+<text x="370" y="360" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#6b6b7b">EntraYa · Entrada digital</text>
+<rect x="612" y="250" width="5" height="70" fill="#1d0f3a"/><rect x="618" y="250" width="3" height="70" fill="#1d0f3a"/><rect x="622" y="250" width="5" height="70" fill="#1d0f3a"/><rect x="630" y="250" width="3" height="70" fill="#1d0f3a"/><rect x="634" y="250" width="5" height="70" fill="#1d0f3a"/><rect x="642" y="250" width="3" height="70" fill="#1d0f3a"/><rect x="646" y="250" width="5" height="70" fill="#1d0f3a"/><rect x="652" y="250" width="3" height="70" fill="#1d0f3a"/><rect x="660" y="250" width="5" height="70" fill="#1d0f3a"/><rect x="664" y="250" width="3" height="70" fill="#1d0f3a"/><rect x="672" y="250" width="5" height="70" fill="#1d0f3a"/><rect x="676" y="250" width="3" height="70" fill="#1d0f3a"/>
+</svg>
